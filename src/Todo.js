@@ -44,7 +44,7 @@ function Todo() {
                     type='text'
                     onClick={Add}
                     variant="contained" color="success">
-                    Add Items
+                    Add
                 </Button>
                 <ui>
                     {/* <li>{inputs}</li> */}
